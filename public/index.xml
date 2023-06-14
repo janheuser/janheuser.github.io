@@ -6,7 +6,16 @@
     <description>Recent content on Hello, I&#39;m James</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 13:07:40 -0500</lastBuildDate><atom:link href="https://janheuser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 13:14:30 -0500</lastBuildDate><atom:link href="https://janheuser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://janheuser.github.io/posts/test/</link>
+      <pubDate>Wed, 14 Jun 2023 13:14:30 -0500</pubDate>
+      
+      <guid>https://janheuser.github.io/posts/test/</guid>
+      <description>testing auto build/deploy</description>
+    </item>
+    
     <item>
       <title>Nature, quantifiable?</title>
       <link>https://janheuser.github.io/posts/naturequantifiable/</link>
