@@ -1,7 +1,8 @@
 ---
-title: "Test"
-date: 2023-06-14T13:14:30-05:00
-draft: false		
+title: "testing"
+date: 2023-06-14T13:22:01-05:00
+draft: false
 ---
 
-testing auto build/deploy
+1, 2, 3...
+
