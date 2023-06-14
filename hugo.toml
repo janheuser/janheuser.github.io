@@ -1,0 +1,4 @@
+baseURL = 'https://janheuser.github.io/'
+languageCode = 'en-us'
+title = "Hello, I'm James"
+theme = 'ananke'
